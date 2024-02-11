@@ -11,6 +11,8 @@ public class Main {
 		       System.out.print(grid[i][j] + " ");
 		     System.out.println("inside loop");
 		   }
+
+		   System.out.println("This is matrix");
 	}
 }
 }
